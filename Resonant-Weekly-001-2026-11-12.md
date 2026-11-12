@@ -1,5 +1,7 @@
 # Resonant Weekly — Issue 001
 
+![Resonant Weekly 001 cover](images/RW-001-cover.png)
+
 **12 November 2026 | Community digest | 5–11 November 2026**
 
 Weekly update on what's happening in the Augmentatist community.
