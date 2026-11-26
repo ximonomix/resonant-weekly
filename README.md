@@ -6,6 +6,7 @@ A selection of discussions, experiments, projects and shared learning from the R
 
 ## Issues
 
+- **[Issue 003 — 26 November 2026](Resonant-Weekly-003-2026-11-26.md)**
 - **[Issue 002 — 19 November 2026](Resonant-Weekly-002-2026-11-19.md)**
 - **[Issue 001 — 12 November 2026](Resonant-Weekly-001-2026-11-12.md)**
 - **[Issue 000 — 5 November 2026](https://github.com/ximonomix/rw-000/blob/main/Resonant-Weekly-31-Oct-5-Nov-2026.md)** — Pilot issue
